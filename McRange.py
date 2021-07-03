@@ -52,7 +52,7 @@ async def aegis(ctx, arg1, arg2):
     embed.add_field(name='<--> Attack started <-->', value=f'ip: {arg1}', inline=False)
     embed.add_field(name='-------------------', value=f'port: {arg2}', inline=False)
     embed.add_field(name='<--> Attack started <-->', value='⁣', inline=True)
-    embed.set_footer(text='~szefszefow skid')
+    embed.set_footer(text='Developer your toem#7990')
     embed.set_thumbnail(url='https://cdn.discordapp.com/attachments/854388755463798844/858007596337201152/PicsArt_06-25-03.48.06.png')
     embed.set_image(url='https://cdn.discordapp.com/attachments/854388755463798844/858007598816690196/PicsArt_06-25-03.54.17.jpg')
 
@@ -72,7 +72,7 @@ async def instant(ctx, arg1, arg2):
     embed.add_field(name='<--> Attack started <-->', value=f'ip: {arg1}', inline=False)
     embed.add_field(name='-------------------', value=f'port: {arg2}', inline=False)
     embed.add_field(name='<--> Attack started <-->', value='⁣', inline=True)
-    embed.set_footer(text='~szefszefow skid')
+    embed.set_footer(text='Developer your toem#7990')
     embed.set_thumbnail(url=f'https://api.mcsrvstat.us/icon/{arg1}')
     embed.set_image(url='https://cdn.discordapp.com/attachments/854388755463798844/858007598816690196/PicsArt_06-25-03.54.17.jpg')
 
